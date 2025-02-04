@@ -5,7 +5,7 @@ authors = ["ravinthiranpartheepan1407"]
 edition = "2021"
 description = "Time series library for Analyst, Data Scientist"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/ravinthiranpartheepan1407/timers.git"
+repository = "https://github.com/ravinthiranpartheepan1407/timers"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
