@@ -1,0 +1,12 @@
+[package]
+name = "timers"
+version = "0.1.0"
+authors = ["ravinthiranpartheepan1407]
+edition = "2021"
+description = "Time series library for Analyst, Data Scientist"
+license = "MIT or Apache-2.0"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
