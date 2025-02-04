@@ -1,5 +1,5 @@
 [package]
-name = "timers"
+name = "timers-rs"
 version = "0.1.0"
 authors = ["ravinthiranpartheepan1407"]
 edition = "2021"
