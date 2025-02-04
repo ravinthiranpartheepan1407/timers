@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["ravinthiranpartheepan1407"]
 edition = "2021"
 description = "Time series library for Analyst, Data Scientist"
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/ravinthiranpartheepan1407/timers.git"
 
 
