@@ -3,7 +3,7 @@ name = "timers-rs"
 version = "0.1.0"
 authors = ["ravinthiranpartheepan1407"]
 edition = "2021"
-description = "Time series library for Analyst, Data Scientist"
+description = "Time series library for analysts, ML engineers, and data scientists. This package was actually built as a course module. In the course, I cover the math behind each time series model and build everything from scratch without using any external crates. Check out this course here: "
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/ravinthiranpartheepan1407/timers"
 
