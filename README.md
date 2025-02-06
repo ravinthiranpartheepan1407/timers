@@ -1,4 +1,4 @@
-This package was actually built as a course module. In the course, I cover the math behind each time series model and build everything from scratch without using any external crates. Check out this course here: https://www.udemy.com/course/build-an-open-source-time-series-lib-from-scratch-in-rust
+This package was actually built as a course module. In the course, I cover the math behind each time series model and build everything from scratch without using any external crates. Check out this course here: https://www.udemy.com/course/build-an-open-source-time-series-lib-from-scratch-in-rust/?referralCode=802A036F5A6D7453BCBD
 
 Library Modules:
 

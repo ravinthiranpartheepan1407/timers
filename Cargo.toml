@@ -1,6 +1,6 @@
 [package]
 name = "timers-rs"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["ravinthiranpartheepan1407"]
 edition = "2021"
 description = "Time series library for analysts, ML engineers, and data scientists. This package was actually built as a course module."
